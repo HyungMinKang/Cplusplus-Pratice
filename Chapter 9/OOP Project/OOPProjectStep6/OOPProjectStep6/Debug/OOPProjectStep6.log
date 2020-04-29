@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\com\source\repos\OOPProjectStep6\OOPProjectStep6\Source.cpp(100,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\com\source\repos\OOPProjectStep6\OOPProjectStep6\Source.cpp(123,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  OOPProjectStep6.vcxproj -> C:\Users\com\source\repos\OOPProjectStep6\Debug\OOPProjectStep6.exe

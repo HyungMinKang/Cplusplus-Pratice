@@ -1,0 +1,7 @@
+﻿  Account.cpp
+  AccountHandler.cpp
+C:\Users\com\source\repos\OOPProjectStep11\OOPProjectStep11\NormalAccount.h(25,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  String.cpp
+  Generating Code...
+C:\Users\com\source\repos\OOPProjectStep11\OOPProjectStep11\HighCreditAccount.h(25,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  OOPProjectStep11.vcxproj -> C:\Users\com\source\repos\OOPProjectStep11\Debug\OOPProjectStep11.exe
